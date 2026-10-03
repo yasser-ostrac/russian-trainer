@@ -1,0 +1,1529 @@
+[
+  {
+    "day": 1,
+    "title": "Alphabet I",
+    "rest": false,
+    "lesson": "Cyrillic is phonetic: letters sound the same every time. Today: А Б В Г Д Е Ж З И К. Watch out: В = V, Ж = zh, Е = ye.",
+    "task": "Read each word aloud 3 times, slowly.",
+    "vocab": [
+      {
+        "ru": "банк",
+        "tr": "bank",
+        "en": "bank"
+      },
+      {
+        "ru": "вода",
+        "tr": "vadá",
+        "en": "water"
+      },
+      {
+        "ru": "город",
+        "tr": "górad",
+        "en": "city"
+      },
+      {
+        "ru": "дом",
+        "tr": "dom",
+        "en": "house"
+      },
+      {
+        "ru": "зима",
+        "tr": "zimá",
+        "en": "winter"
+      },
+      {
+        "ru": "кофе",
+        "tr": "kófye",
+        "en": "coffee"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Это банк",
+        "en": "This is a bank"
+      },
+      {
+        "ru": "Это мой дом",
+        "en": "This is my house"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "title": "Alphabet II",
+    "rest": false,
+    "lesson": "Look-alikes with different sounds: В = V, Н = N, Р = R, С = S, У = oo, Х = kh. Ь softens the consonant before it; Ъ is rare.",
+    "task": "Read the words aloud, then spell one out letter by letter.",
+    "vocab": [
+      {
+        "ru": "мама",
+        "tr": "máma",
+        "en": "mom"
+      },
+      {
+        "ru": "нос",
+        "tr": "nos",
+        "en": "nose"
+      },
+      {
+        "ru": "рыба",
+        "tr": "rýba",
+        "en": "fish"
+      },
+      {
+        "ru": "сок",
+        "tr": "sok",
+        "en": "juice"
+      },
+      {
+        "ru": "улица",
+        "tr": "úlitsa",
+        "en": "street"
+      },
+      {
+        "ru": "хлеб",
+        "tr": "khlyeb",
+        "en": "bread"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Это моя мама",
+        "en": "This is my mom"
+      },
+      {
+        "ru": "Мне нужен сок",
+        "en": "I need juice"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "title": "Stress & loanwords",
+    "rest": false,
+    "lesson": "Stress is unpredictable and changes vowel sounds: an unstressed О sounds like \"a\". Always learn the stressed syllable with the word.",
+    "task": "Read each word aloud, exaggerating the stressed syllable.",
+    "vocab": [
+      {
+        "ru": "метро",
+        "tr": "mitró",
+        "en": "metro"
+      },
+      {
+        "ru": "ресторан",
+        "tr": "ristarán",
+        "en": "restaurant"
+      },
+      {
+        "ru": "такси",
+        "tr": "taksí",
+        "en": "taxi"
+      },
+      {
+        "ru": "телефон",
+        "tr": "tilifón",
+        "en": "phone"
+      },
+      {
+        "ru": "паспорт",
+        "tr": "pásport",
+        "en": "passport"
+      },
+      {
+        "ru": "отель",
+        "tr": "atyél",
+        "en": "hotel"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Где ресторан?",
+        "en": "Where is the restaurant?"
+      },
+      {
+        "ru": "Мне нужно такси",
+        "en": "I need a taxi"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "title": "Introductions",
+    "rest": false,
+    "lesson": "Russian has no \"am/is/are\" in the present: Я студент = \"I student\". Меня зовут = \"they call me\".",
+    "task": "Record yourself introducing yourself, 4 sentences.",
+    "vocab": [
+      {
+        "ru": "привет",
+        "tr": "privyét",
+        "en": "hi"
+      },
+      {
+        "ru": "спасибо",
+        "tr": "spasíba",
+        "en": "thank you"
+      },
+      {
+        "ru": "пожалуйста",
+        "tr": "pazháluysta",
+        "en": "please / welcome"
+      },
+      {
+        "ru": "извините",
+        "tr": "izvinítye",
+        "en": "excuse me"
+      },
+      {
+        "ru": "да",
+        "tr": "da",
+        "en": "yes"
+      },
+      {
+        "ru": "нет",
+        "tr": "nyet",
+        "en": "no"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Меня зовут Ясер",
+        "en": "My name is Yasser"
+      },
+      {
+        "ru": "Я из Марокко",
+        "en": "I'm from Morocco"
+      },
+      {
+        "ru": "Очень приятно",
+        "en": "Nice to meet you"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "title": "Numbers & prices",
+    "rest": false,
+    "lesson": "Numbers 1 to 10. After 2, 3, 4 nouns change form (два дома), so just memorize price phrases for now.",
+    "task": "Shadow the phrases, then ask the price of 3 imaginary things.",
+    "vocab": [
+      {
+        "ru": "один",
+        "tr": "adín",
+        "en": "one"
+      },
+      {
+        "ru": "два",
+        "tr": "dva",
+        "en": "two"
+      },
+      {
+        "ru": "три",
+        "tr": "tri",
+        "en": "three"
+      },
+      {
+        "ru": "пять",
+        "tr": "pyat",
+        "en": "five"
+      },
+      {
+        "ru": "десять",
+        "tr": "dyésyat",
+        "en": "ten"
+      },
+      {
+        "ru": "сколько",
+        "tr": "skól'ka",
+        "en": "how much"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Сколько это стоит?",
+        "en": "How much is this?"
+      },
+      {
+        "ru": "Это дорого",
+        "en": "It's expensive"
+      },
+      {
+        "ru": "Где метро?",
+        "en": "Where is the metro?"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "title": "Survival phrases",
+    "rest": false,
+    "lesson": "Use Вы (formal) with strangers and ты (informal) with friends. Add пожалуйста to everything.",
+    "task": "Role-play a shop: greet, ask, say you don't understand, thank.",
+    "vocab": [
+      {
+        "ru": "понимаю",
+        "tr": "panimáyu",
+        "en": "I understand"
+      },
+      {
+        "ru": "повторите",
+        "tr": "paftarítye",
+        "en": "repeat"
+      },
+      {
+        "ru": "медленно",
+        "tr": "myédlenna",
+        "en": "slowly"
+      },
+      {
+        "ru": "помогите",
+        "tr": "pamagítye",
+        "en": "help"
+      },
+      {
+        "ru": "английский",
+        "tr": "angliyskiy",
+        "en": "English"
+      },
+      {
+        "ru": "говорите",
+        "tr": "gavarítye",
+        "en": "speak"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я не понимаю",
+        "en": "I don't understand"
+      },
+      {
+        "ru": "Повторите, пожалуйста",
+        "en": "Please repeat"
+      },
+      {
+        "ru": "Вы говорите по-английски?",
+        "en": "Do you speak English?"
+      },
+      {
+        "ru": "Говорите медленнее",
+        "en": "Speak more slowly"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "title": "Rest & review",
+    "rest": true,
+    "lesson": "Light day: 45 minutes. Review every Anki card and re-listen to the phrases from days 1 to 6.",
+    "task": "Say your full self-introduction once without notes.",
+    "vocab": [
+      {
+        "ru": "привет",
+        "tr": "privyét",
+        "en": "hi"
+      },
+      {
+        "ru": "спасибо",
+        "tr": "spasíba",
+        "en": "thank you"
+      },
+      {
+        "ru": "сколько",
+        "tr": "skól'ka",
+        "en": "how much"
+      },
+      {
+        "ru": "где",
+        "tr": "gdye",
+        "en": "where"
+      },
+      {
+        "ru": "дом",
+        "tr": "dom",
+        "en": "house"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Меня зовут Ясер",
+        "en": "My name is Yasser"
+      },
+      {
+        "ru": "Я не понимаю",
+        "en": "I don't understand"
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "title": "Nouns & gender",
+    "rest": false,
+    "lesson": "Nouns have gender. Masculine: ends in a consonant (стол). Feminine: ends in -а/-я (книга). Neuter: ends in -о/-е (окно). This decides adjective endings later.",
+    "task": "Name 10 objects around you with their gender.",
+    "vocab": [
+      {
+        "ru": "стол",
+        "tr": "stol",
+        "en": "table (m)"
+      },
+      {
+        "ru": "книга",
+        "tr": "kníga",
+        "en": "book (f)"
+      },
+      {
+        "ru": "окно",
+        "tr": "aknó",
+        "en": "window (n)"
+      },
+      {
+        "ru": "друг",
+        "tr": "drug",
+        "en": "friend"
+      },
+      {
+        "ru": "вода",
+        "tr": "vadá",
+        "en": "water (f)"
+      },
+      {
+        "ru": "город",
+        "tr": "górad",
+        "en": "city (m)"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Это стол",
+        "en": "This is a table"
+      },
+      {
+        "ru": "Это моя книга",
+        "en": "This is my book"
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "title": "Present tense I",
+    "rest": false,
+    "lesson": "Verbs in -ать/-ять: читать → я читаю, ты читаешь, он читает, мы читаем, вы читаете, они читают.",
+    "task": "Say 10 sentences about yourself using я + verb.",
+    "vocab": [
+      {
+        "ru": "читать",
+        "tr": "chitát'",
+        "en": "to read"
+      },
+      {
+        "ru": "работать",
+        "tr": "rabótat'",
+        "en": "to work"
+      },
+      {
+        "ru": "знать",
+        "tr": "znat'",
+        "en": "to know"
+      },
+      {
+        "ru": "думать",
+        "tr": "dúmat'",
+        "en": "to think"
+      },
+      {
+        "ru": "делать",
+        "tr": "dyélat'",
+        "en": "to do"
+      },
+      {
+        "ru": "понимать",
+        "tr": "panimát'",
+        "en": "to understand"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я читаю книгу",
+        "en": "I'm reading a book"
+      },
+      {
+        "ru": "Я знаю",
+        "en": "I know"
+      },
+      {
+        "ru": "Что ты делаешь?",
+        "en": "What are you doing?"
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "title": "Have & want",
+    "rest": false,
+    "lesson": "У меня есть = \"at me there is\" (I have). Хотеть is irregular: я хочу, ты хочешь, он хочет.",
+    "task": "Say 5 things you have and 5 things you want.",
+    "vocab": [
+      {
+        "ru": "хочу",
+        "tr": "khachú",
+        "en": "I want"
+      },
+      {
+        "ru": "есть",
+        "tr": "yest'",
+        "en": "there is"
+      },
+      {
+        "ru": "нужно",
+        "tr": "núzhna",
+        "en": "need"
+      },
+      {
+        "ru": "можно",
+        "tr": "mózhna",
+        "en": "may / can"
+      },
+      {
+        "ru": "много",
+        "tr": "mnóga",
+        "en": "a lot"
+      },
+      {
+        "ru": "мало",
+        "tr": "málo",
+        "en": "a little"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "У меня есть вопрос",
+        "en": "I have a question"
+      },
+      {
+        "ru": "Я хочу чай",
+        "en": "I want tea"
+      },
+      {
+        "ru": "Можно воды?",
+        "en": "Can I have some water?"
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "title": "Questions & negation",
+    "rest": false,
+    "lesson": "Put не before the verb to negate. Questions keep the same word order; just raise your intonation on the key word.",
+    "task": "Ask and answer 10 questions out loud.",
+    "vocab": [
+      {
+        "ru": "что",
+        "tr": "shto",
+        "en": "what"
+      },
+      {
+        "ru": "где",
+        "tr": "gdye",
+        "en": "where"
+      },
+      {
+        "ru": "когда",
+        "tr": "kagdá",
+        "en": "when"
+      },
+      {
+        "ru": "почему",
+        "tr": "pachimú",
+        "en": "why"
+      },
+      {
+        "ru": "кто",
+        "tr": "kto",
+        "en": "who"
+      },
+      {
+        "ru": "как",
+        "tr": "kak",
+        "en": "how"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Как тебя зовут?",
+        "en": "What's your name?"
+      },
+      {
+        "ru": "Что это?",
+        "en": "What is this?"
+      },
+      {
+        "ru": "Я не знаю",
+        "en": "I don't know"
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "title": "At the café",
+    "rest": false,
+    "lesson": "Ordering uses accusative for feminine nouns (воду, колу) but sounds natural with just the noun + пожалуйста.",
+    "task": "Role-play ordering a full meal with a partner or alone.",
+    "vocab": [
+      {
+        "ru": "кофе",
+        "tr": "kófye",
+        "en": "coffee"
+      },
+      {
+        "ru": "чай",
+        "tr": "chay",
+        "en": "tea"
+      },
+      {
+        "ru": "суп",
+        "tr": "sup",
+        "en": "soup"
+      },
+      {
+        "ru": "сок",
+        "tr": "sok",
+        "en": "juice"
+      },
+      {
+        "ru": "меню",
+        "tr": "minyú",
+        "en": "menu"
+      },
+      {
+        "ru": "счёт",
+        "tr": "shchot",
+        "en": "bill"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Один кофе, пожалуйста",
+        "en": "One coffee, please"
+      },
+      {
+        "ru": "Можно меню?",
+        "en": "Can I see the menu?"
+      },
+      {
+        "ru": "Счёт, пожалуйста",
+        "en": "The bill, please"
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "title": "Time & numbers",
+    "rest": false,
+    "lesson": "Tens: двадцать, тридцать, сорок, пятьдесят, сто. Time: Сейчас + number + час/часа/часов.",
+    "task": "Say the time shown on your clock every hour today.",
+    "vocab": [
+      {
+        "ru": "двадцать",
+        "tr": "dvátsat'",
+        "en": "twenty"
+      },
+      {
+        "ru": "тридцать",
+        "tr": "trídtsat'",
+        "en": "thirty"
+      },
+      {
+        "ru": "сто",
+        "tr": "sto",
+        "en": "hundred"
+      },
+      {
+        "ru": "час",
+        "tr": "chas",
+        "en": "hour"
+      },
+      {
+        "ru": "минута",
+        "tr": "minúta",
+        "en": "minute"
+      },
+      {
+        "ru": "сейчас",
+        "tr": "seychás",
+        "en": "now"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Который час?",
+        "en": "What time is it?"
+      },
+      {
+        "ru": "Сейчас три часа",
+        "en": "It's three o'clock"
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "title": "Rest & review",
+    "rest": true,
+    "lesson": "Light day. Review weeks 1 and 2 cards, then listen to all the phrases once.",
+    "task": "Tell a 5-sentence story about your day.",
+    "vocab": [
+      {
+        "ru": "что",
+        "tr": "shto",
+        "en": "what"
+      },
+      {
+        "ru": "хочу",
+        "tr": "khachú",
+        "en": "I want"
+      },
+      {
+        "ru": "читать",
+        "tr": "chitát'",
+        "en": "to read"
+      },
+      {
+        "ru": "счёт",
+        "tr": "shchot",
+        "en": "bill"
+      },
+      {
+        "ru": "сейчас",
+        "tr": "seychás",
+        "en": "now"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Один кофе, пожалуйста",
+        "en": "One coffee, please"
+      },
+      {
+        "ru": "Я не знаю",
+        "en": "I don't know"
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "title": "Prepositional case",
+    "rest": false,
+    "lesson": "Location uses в/на + prepositional: город → в городе, университет → в университете, улица → на улице.",
+    "task": "Say where 10 things or people are right now.",
+    "vocab": [
+      {
+        "ru": "в городе",
+        "tr": "v górade",
+        "en": "in the city"
+      },
+      {
+        "ru": "в университете",
+        "tr": "v universitétye",
+        "en": "at the university"
+      },
+      {
+        "ru": "на улице",
+        "tr": "na úlitse",
+        "en": "on the street"
+      },
+      {
+        "ru": "дома",
+        "tr": "dóma",
+        "en": "at home"
+      },
+      {
+        "ru": "здесь",
+        "tr": "zdyes'",
+        "en": "here"
+      },
+      {
+        "ru": "там",
+        "tr": "tam",
+        "en": "there"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я в университете",
+        "en": "I'm at the university"
+      },
+      {
+        "ru": "Где ты живёшь?",
+        "en": "Where do you live?"
+      },
+      {
+        "ru": "Я живу в Фесе",
+        "en": "I live in Fes"
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "title": "Present tense II",
+    "rest": false,
+    "lesson": "Verbs in -ить: говорить → я говорю, ты говоришь, он говорит, мы говорим, вы говорите, они говорят.",
+    "task": "Shadow a short dialogue twice.",
+    "vocab": [
+      {
+        "ru": "говорить",
+        "tr": "gavarít'",
+        "en": "to speak"
+      },
+      {
+        "ru": "любить",
+        "tr": "lyubít'",
+        "en": "to love"
+      },
+      {
+        "ru": "смотреть",
+        "tr": "smatryét'",
+        "en": "to watch"
+      },
+      {
+        "ru": "видеть",
+        "tr": "vídyet'",
+        "en": "to see"
+      },
+      {
+        "ru": "учить",
+        "tr": "uchít'",
+        "en": "to study"
+      },
+      {
+        "ru": "платить",
+        "tr": "platít'",
+        "en": "to pay"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я говорю по-арабски",
+        "en": "I speak Arabic"
+      },
+      {
+        "ru": "Я люблю музыку",
+        "en": "I like music"
+      },
+      {
+        "ru": "Я учу русский",
+        "en": "I'm learning Russian"
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "title": "Accusative & family",
+    "rest": false,
+    "lesson": "Direct objects: feminine -а → -у (мама → маму). Masculine inanimate stays the same (кофе, чай).",
+    "task": "Describe your family in 6 sentences.",
+    "vocab": [
+      {
+        "ru": "мама",
+        "tr": "máma",
+        "en": "mom"
+      },
+      {
+        "ru": "папа",
+        "tr": "pápa",
+        "en": "dad"
+      },
+      {
+        "ru": "брат",
+        "tr": "brat",
+        "en": "brother"
+      },
+      {
+        "ru": "сестра",
+        "tr": "sistrá",
+        "en": "sister"
+      },
+      {
+        "ru": "семья",
+        "tr": "simyá",
+        "en": "family"
+      },
+      {
+        "ru": "друг",
+        "tr": "drug",
+        "en": "friend"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я люблю маму",
+        "en": "I love my mom"
+      },
+      {
+        "ru": "У меня есть брат",
+        "en": "I have a brother"
+      },
+      {
+        "ru": "Это моя семья",
+        "en": "This is my family"
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "title": "Going places",
+    "rest": false,
+    "lesson": "Idti = on foot, ехать = by vehicle. я иду, я еду. Direction uses в/на + accusative.",
+    "task": "Role-play asking for and giving directions.",
+    "vocab": [
+      {
+        "ru": "идти",
+        "tr": "itti",
+        "en": "to go (walk)"
+      },
+      {
+        "ru": "ехать",
+        "tr": "yékhat'",
+        "en": "to go (ride)"
+      },
+      {
+        "ru": "автобус",
+        "tr": "aftóbus",
+        "en": "bus"
+      },
+      {
+        "ru": "поезд",
+        "tr": "póyezd",
+        "en": "train"
+      },
+      {
+        "ru": "налево",
+        "tr": "nalyéva",
+        "en": "left"
+      },
+      {
+        "ru": "направо",
+        "tr": "naprava",
+        "en": "right"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Как пройти на вокзал?",
+        "en": "How do I get to the station?"
+      },
+      {
+        "ru": "Иди прямо, потом налево",
+        "en": "Go straight, then left"
+      },
+      {
+        "ru": "Я еду на автобусе",
+        "en": "I'm going by bus"
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "title": "Past tense",
+    "rest": false,
+    "lesson": "Take the infinitive, drop -ть, add -л (m), -ла (f), -ло (n), -ли (pl): читать → я читал / читала.",
+    "task": "Tell what you did yesterday in 6 sentences.",
+    "vocab": [
+      {
+        "ru": "вчера",
+        "tr": "fchirá",
+        "en": "yesterday"
+      },
+      {
+        "ru": "сегодня",
+        "tr": "sivódnya",
+        "en": "today"
+      },
+      {
+        "ru": "был",
+        "tr": "byl",
+        "en": "was (m)"
+      },
+      {
+        "ru": "была",
+        "tr": "byla",
+        "en": "was (f)"
+      },
+      {
+        "ru": "жил",
+        "tr": "zhil",
+        "en": "lived"
+      },
+      {
+        "ru": "работал",
+        "tr": "rabótal",
+        "en": "worked"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Вчера я был дома",
+        "en": "Yesterday I was at home"
+      },
+      {
+        "ru": "Я читал книгу",
+        "en": "I read a book"
+      },
+      {
+        "ru": "Где ты был?",
+        "en": "Where were you?"
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "title": "Future & plans",
+    "rest": false,
+    "lesson": "Future of быть: я буду, ты будешь, он будет, мы будем, вы будете, они будут + infinitive.",
+    "task": "Describe your plans for the coming week.",
+    "vocab": [
+      {
+        "ru": "буду",
+        "tr": "búdu",
+        "en": "I will"
+      },
+      {
+        "ru": "завтра",
+        "tr": "záftra",
+        "en": "tomorrow"
+      },
+      {
+        "ru": "потом",
+        "tr": "patóm",
+        "en": "then"
+      },
+      {
+        "ru": "неделя",
+        "tr": "nidyélya",
+        "en": "week"
+      },
+      {
+        "ru": "понедельник",
+        "tr": "panidyél'nik",
+        "en": "Monday"
+      },
+      {
+        "ru": "пятница",
+        "tr": "pyátnitsa",
+        "en": "Friday"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Завтра я буду учиться",
+        "en": "Tomorrow I'll study"
+      },
+      {
+        "ru": "В пятницу я буду дома",
+        "en": "On Friday I'll be home"
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "title": "Rest & review",
+    "rest": true,
+    "lesson": "Light day. Re-listen to all phrases from weeks 1 to 3 and note weak spots for the tutor.",
+    "task": "Talk for 1 minute about yourself, no pauses.",
+    "vocab": [
+      {
+        "ru": "буду",
+        "tr": "búdu",
+        "en": "I will"
+      },
+      {
+        "ru": "был",
+        "tr": "byl",
+        "en": "was"
+      },
+      {
+        "ru": "идти",
+        "tr": "itti",
+        "en": "to go"
+      },
+      {
+        "ru": "семья",
+        "tr": "simyá",
+        "en": "family"
+      },
+      {
+        "ru": "завтра",
+        "tr": "záftra",
+        "en": "tomorrow"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я не понимаю",
+        "en": "I don't understand"
+      },
+      {
+        "ru": "Меня зовут Ясер",
+        "en": "My name is Yasser"
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "title": "Tutor session 1",
+    "rest": false,
+    "lesson": "Book 30 minutes. Goal: introduce yourself, ask 3 questions, ask the tutor to correct you. Write down every mistake.",
+    "task": "Review your mistake list after the session.",
+    "vocab": [
+      {
+        "ru": "студент",
+        "tr": "studyént",
+        "en": "student"
+      },
+      {
+        "ru": "учиться",
+        "tr": "uchítsa",
+        "en": "to study"
+      },
+      {
+        "ru": "изучать",
+        "tr": "izuchát'",
+        "en": "to learn"
+      },
+      {
+        "ru": "язык",
+        "tr": "yazýk",
+        "en": "language"
+      },
+      {
+        "ru": "русский",
+        "tr": "rúskiy",
+        "en": "Russian"
+      },
+      {
+        "ru": "немецкий",
+        "tr": "nimyétskiy",
+        "en": "German"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Я студент",
+        "en": "I'm a student"
+      },
+      {
+        "ru": "Я изучаю информатику",
+        "en": "I study computer science"
+      },
+      {
+        "ru": "Я учу немецкий и русский",
+        "en": "I'm learning German and Russian"
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "title": "Studies & routine",
+    "rest": false,
+    "lesson": "Time of day uses instrumental: утром, днём, вечером. Frequency words: всегда, обычно, иногда.",
+    "task": "Record and listen back to your daily routine.",
+    "vocab": [
+      {
+        "ru": "утром",
+        "tr": "útram",
+        "en": "in the morning"
+      },
+      {
+        "ru": "днём",
+        "tr": "dnyom",
+        "en": "in the afternoon"
+      },
+      {
+        "ru": "вечером",
+        "tr": "vyécheram",
+        "en": "in the evening"
+      },
+      {
+        "ru": "всегда",
+        "tr": "fsigdá",
+        "en": "always"
+      },
+      {
+        "ru": "обычно",
+        "tr": "abýchna",
+        "en": "usually"
+      },
+      {
+        "ru": "университет",
+        "tr": "universitét",
+        "en": "university"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Утром я иду в университет",
+        "en": "In the morning I go to the university"
+      },
+      {
+        "ru": "Вечером я читаю",
+        "en": "In the evening I read"
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "title": "Hobbies & opinions",
+    "rest": false,
+    "lesson": "Мне нравится = \"to me is pleasing\". The thing you like is the subject: Мне нравится музыка.",
+    "task": "Watch an Easy Russian clip, then shadow 3 lines.",
+    "vocab": [
+      {
+        "ru": "нравится",
+        "tr": "nrávitsa",
+        "en": "I like"
+      },
+      {
+        "ru": "музыка",
+        "tr": "múzyka",
+        "en": "music"
+      },
+      {
+        "ru": "фильм",
+        "tr": "film",
+        "en": "movie"
+      },
+      {
+        "ru": "спорт",
+        "tr": "sport",
+        "en": "sport"
+      },
+      {
+        "ru": "играть",
+        "tr": "igrát'",
+        "en": "to play"
+      },
+      {
+        "ru": "гулять",
+        "tr": "gulyát'",
+        "en": "to stroll"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Мне нравится музыка",
+        "en": "I like music"
+      },
+      {
+        "ru": "Я люблю играть в футбол",
+        "en": "I like playing football"
+      },
+      {
+        "ru": "Что ты любишь делать?",
+        "en": "What do you like to do?"
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "title": "Tutor session 2",
+    "rest": false,
+    "lesson": "Topic: your day and plans. Use past, present and future tense in the same chat.",
+    "task": "Fix the 3 recurring mistakes from the last session.",
+    "vocab": [
+      {
+        "ru": "планы",
+        "tr": "plány",
+        "en": "plans"
+      },
+      {
+        "ru": "поехать",
+        "tr": "payékhat'",
+        "en": "to go (trip)"
+      },
+      {
+        "ru": "может быть",
+        "tr": "mózhet byt'",
+        "en": "maybe"
+      },
+      {
+        "ru": "сначала",
+        "tr": "snachála",
+        "en": "first"
+      },
+      {
+        "ru": "потом",
+        "tr": "patóm",
+        "en": "then"
+      },
+      {
+        "ru": "после",
+        "tr": "pósle",
+        "en": "after"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Какие у тебя планы?",
+        "en": "What are your plans?"
+      },
+      {
+        "ru": "Сначала я учусь, потом отдыхаю",
+        "en": "First I study, then I rest"
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "title": "Shopping",
+    "rest": false,
+    "lesson": "Prices use рубль, рубля, рублей. Bargaining is polite: Можно дешевле?",
+    "task": "Role-play buying 3 items and bargaining.",
+    "vocab": [
+      {
+        "ru": "магазин",
+        "tr": "magazín",
+        "en": "shop"
+      },
+      {
+        "ru": "дорого",
+        "tr": "dóraga",
+        "en": "expensive"
+      },
+      {
+        "ru": "дёшево",
+        "tr": "dyóshiva",
+        "en": "cheap"
+      },
+      {
+        "ru": "скидка",
+        "tr": "skítka",
+        "en": "discount"
+      },
+      {
+        "ru": "купить",
+        "tr": "kupít'",
+        "en": "to buy"
+      },
+      {
+        "ru": "деньги",
+        "tr": "dyén'gi",
+        "en": "money"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Сколько это стоит?",
+        "en": "How much is this?"
+      },
+      {
+        "ru": "Можно дешевле?",
+        "en": "Can it be cheaper?"
+      },
+      {
+        "ru": "Я хочу это купить",
+        "en": "I want to buy this"
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "title": "Chat & exchange",
+    "rest": false,
+    "lesson": "Fillers make you sound natural: ну, значит, конечно, наверное, понятно.",
+    "task": "Have a 10-minute chat with a tutor or exchange partner.",
+    "vocab": [
+      {
+        "ru": "как дела",
+        "tr": "kak dilá",
+        "en": "how are you"
+      },
+      {
+        "ru": "хорошо",
+        "tr": "kharashó",
+        "en": "good"
+      },
+      {
+        "ru": "плохо",
+        "tr": "plókha",
+        "en": "bad"
+      },
+      {
+        "ru": "тоже",
+        "tr": "tózhe",
+        "en": "also"
+      },
+      {
+        "ru": "конечно",
+        "tr": "kanyéshna",
+        "en": "of course"
+      },
+      {
+        "ru": "понятно",
+        "tr": "panyátna",
+        "en": "understood"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Как дела?",
+        "en": "How are you?"
+      },
+      {
+        "ru": "Хорошо, спасибо, а у тебя?",
+        "en": "Good, thanks, and you?"
+      },
+      {
+        "ru": "Мне тоже нравится",
+        "en": "I like it too"
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "title": "Self-introduction",
+    "rest": false,
+    "lesson": "Build a 2-minute talk: name, origin, studies, languages, plans, hobbies. Use all 3 tenses.",
+    "task": "Record your final version and listen to it.",
+    "vocab": [
+      {
+        "ru": "родился",
+        "tr": "radílsya",
+        "en": "was born"
+      },
+      {
+        "ru": "живу",
+        "tr": "zhivú",
+        "en": "I live"
+      },
+      {
+        "ru": "изучаю",
+        "tr": "izuchayu",
+        "en": "I study"
+      },
+      {
+        "ru": "говорю",
+        "tr": "gavaryú",
+        "en": "I speak"
+      },
+      {
+        "ru": "планирую",
+        "tr": "planíruyu",
+        "en": "I plan"
+      },
+      {
+        "ru": "люблю",
+        "tr": "lyublyú",
+        "en": "I like"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Меня зовут Ясер, мне двадцать лет",
+        "en": "My name is Yasser, I'm twenty"
+      },
+      {
+        "ru": "Я живу в Фесе и учусь в университете",
+        "en": "I live in Fes and study at university"
+      },
+      {
+        "ru": "Я говорю по-арабски, по-французски и по-английски",
+        "en": "I speak Arabic, French and English"
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "title": "Tutor session 4",
+    "rest": false,
+    "lesson": "Free conversation. Ask the tutor to correct every mistake and tell you which topics to study next.",
+    "task": "Write down your 10 weakest areas.",
+    "vocab": [
+      {
+        "ru": "ошибка",
+        "tr": "ashípka",
+        "en": "mistake"
+      },
+      {
+        "ru": "исправьте",
+        "tr": "ispravte",
+        "en": "correct (me)"
+      },
+      {
+        "ru": "сложно",
+        "tr": "slózhna",
+        "en": "hard"
+      },
+      {
+        "ru": "легко",
+        "tr": "lyokha",
+        "en": "easy"
+      },
+      {
+        "ru": "правильно",
+        "tr": "pravíl'na",
+        "en": "correct"
+      },
+      {
+        "ru": "ещё раз",
+        "tr": "yishcho ras",
+        "en": "once more"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Исправьте мои ошибки, пожалуйста",
+        "en": "Please correct my mistakes"
+      },
+      {
+        "ru": "Это было сложно, но интересно",
+        "en": "It was hard but interesting"
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "title": "Review & next month",
+    "rest": false,
+    "lesson": "Compare your recording with Day 4. Plan month two: the six cases, verb aspects, 1000 more words.",
+    "task": "Say a 1-minute summary of your month in Russian.",
+    "vocab": [
+      {
+        "ru": "месяц",
+        "tr": "myésits",
+        "en": "month"
+      },
+      {
+        "ru": "прогресс",
+        "tr": "pragrés",
+        "en": "progress"
+      },
+      {
+        "ru": "следующий",
+        "tr": "slyéduyushchiy",
+        "en": "next"
+      },
+      {
+        "ru": "падежи",
+        "tr": "padyézhi",
+        "en": "cases"
+      },
+      {
+        "ru": "вид глагола",
+        "tr": "vit glagóla",
+        "en": "verb aspect"
+      },
+      {
+        "ru": "слово",
+        "tr": "slóva",
+        "en": "word"
+      }
+    ],
+    "phrases": [
+      {
+        "ru": "Спасибо за урок!",
+        "en": "Thanks for the lesson!"
+      },
+      {
+        "ru": "Я буду учить русский каждый день",
+        "en": "I will study Russian every day"
+      }
+    ]
+  }
+]

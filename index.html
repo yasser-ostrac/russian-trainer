@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Russian Trainer</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b3261e">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Русский <em>path</em></h1>
+    <div class="meta"><span id="pt">0 / 30 days</span><button class="gear" id="gear">⚙ Voice</button></div>
+    <div class="prog"><i id="bar"></i></div>
+    <div id="set">
+      <label>Voice <select id="voice"></select></label>
+      <label>Speed <input type="range" id="rate" min="0.5" max="1.2" step="0.05" value="0.85"></label>
+      <div id="ver" style="font-size:.8rem;opacity:.7;margin-top:.5rem"></div>
+      <div id="warn">No Russian voice found. Install one in your system speech settings. Chrome, Edge and Safari work best.</div>
+    </div>
+    <div class="modes"><button id="m-plan" class="on">Plan</button><button id="m-basics">Basics</button><button id="m-rev">Review <span id="due"></span></button><button id="m-tests">Tests</button></div>
+  </header>
+  <div id="planbar"><div class="weeks" id="weeks"></div><div class="days" id="days"></div></div>
+  <main id="view"></main>
+</div>
+<nav id="nav"><button id="prev">← Back</button><button class="p" id="next">Next →</button></nav>
+<script src="js/backend.js"></script>
+<script src="js/app.js"></script>
+<script src="js/quiz.js"></script>
+<script src="js/reference.js"></script>
+<script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});</script>
+</body></html>
