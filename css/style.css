@@ -85,3 +85,6 @@ nav button:disabled{opacity:.4}
 /* practice tab */
 @media (max-width:430px){.modes button{font-size:.74rem;padding:8px 1px}}
 .ph .en{font-size:.85rem}
+
+/* reading tab */
+@media (max-width:430px){.modes button{font-size:.7rem;padding:8px 1px}}
