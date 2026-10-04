@@ -1,0 +1,13 @@
+Dictionary data (data/dict.tsv)
+
+Source: the OpenRussian.org dictionary data (https://en.openrussian.org, published at
+https://github.com/Badestrand/russian-dictionary), licensed under Creative Commons
+Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/).
+
+Changes made: the noun, verb, adjective and "other" tables were merged into one compact
+tab-separated file; stress marks were converted to combining accents; German translations,
+sentences and unused columns were removed; long English glosses were shortened; all inflected
+forms of a word were merged into one stem-sharing list; a frequency rank was added from a
+public 10,000-word Russian frequency list (https://github.com/hingston/russian).
+
+Because it is an adaptation, data/dict.tsv is shared under the same licence, CC BY-SA 4.0.

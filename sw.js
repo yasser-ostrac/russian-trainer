@@ -1,4 +1,4 @@
-const V = 'ru-trainer-v8';
+const V = 'ru-trainer-v9';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './css/style.css', './js/backend.js',
   './js/app.js', './js/dictionary.js', './js/quiz.js', './js/reference.js', './js/reading.js', './data/texts.txt', './js/extras.js', './js/readcheck.js', './js/fixes.js', './data/words.txt', './data/dialogues.txt', './data/reference.json', './data/days.json', './data/days_extra.txt', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', e => e.waitUntil(caches.open(V).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())));
