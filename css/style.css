@@ -81,3 +81,7 @@ nav button:disabled{opacity:.4}
 .numtool{display:flex;gap:8px;margin-bottom:8px}
 .numtool input{flex:1;min-width:0;padding:10px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--fg);font-size:1rem}
 .modes button{font-size:.86rem;padding:8px 4px}
+
+/* practice tab */
+@media (max-width:430px){.modes button{font-size:.74rem;padding:8px 1px}}
+.ph .en{font-size:.85rem}
